@@ -1,7 +1,7 @@
 # Kaspa Battlecard Translation Status
 
 > 💡 Want to help translate the battle card?  
-> Download the template from `kaspa-battle-card-template.csv` and submit your translation as a pull request or issue.
+> Download the template from [kaspa-battle-card-template.csv](kaspa-battle-card-template.csv) and submit your translation as a pull request or issue.
 
 ## Status Legend
 ✅ Complete - Current, high-quality translation  
