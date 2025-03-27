@@ -1,6 +1,10 @@
 # Kaspa Builders
 
-Welcome to the Kaspa Builders community repository! This is where we organize and share resources to help grow the Kaspa ecosystem.
+<p align="center">
+  <img src="assets/images/readme.jpg" alt="Kaspa Builders" width="600">
+</p>
+
+Welcome to the Kaspa Builders community repository! This is where we organise and share resources to help grow the Kaspa ecosystem.
 
 ## About
 
