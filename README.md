@@ -16,9 +16,10 @@ You don't need to be a developer. If you care enough to help, you already belong
 
 - 📁 `docs/` - Core documentation and guides
 - 📁 `resources/` - Educational materials, templates, and tools
+  - 📁 `battlecards/` - Kaspa battle card translations and template ([Translation Status](resources/battlecards/translation-status.md))
 - 📁 `community/` - Community guidelines and processes
 - 📁 `events/` - Event planning and resources
-- 📁 `translations/` - Translated content and language resources
+- 📁 `translations/` - General content translations (documentation, guides, etc.)
 - 📁 `archive/` - Historical content and deprecated materials
 
 ## Getting Started
