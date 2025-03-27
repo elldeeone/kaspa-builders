@@ -65,10 +65,7 @@ There’s no pressure to scale. But there’s always room to deepen your impact.
 
 Here are some materials you can use, remix, translate, or build from:
 
-- [Kaspa Presentation Template](https://docs.google.com/presentation/d/1RaiAwianlj_7dXdz-uTnxs2058-ZYya7lWKgQrlzPfs/edit?usp=sharing)  
-- [Ambassador Handbook (Legacy)](https://your-link-here)  
 - [Kaspa Media Kit](https://kaspa.org/media-kit/)  
-- [Battlecards (Multi-language)](https://kaspa.org/kaspa-ambassador-resources/)  
 - [Kaspa Block Explorers](https://explorer.kaspa.org/), [https://kas.fyi](https://kas.fyi)  
 - [Kaspa Wikipedia](https://wiki.kaspa.org/)  
 - [Kaspa Stats](https://kas.live/)  
