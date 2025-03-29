@@ -4,7 +4,7 @@
   <img src="assets/images/readme.jpg" alt="Kaspa Builders" width="600">
 </p>
 
-Welcome to the Kaspa Builders community repository! This is where we organise and share resources to help grow the Kaspa ecosystem.
+Welcome to the Kaspa Builders community repository! This is where resources are organised and shared to help grow the Kaspa ecosystem.
 
 ## About
 
@@ -24,17 +24,16 @@ You don't need to be a developer. If you care enough to help, you already belong
 
 ## Getting Started
 
-1. Read our [Vision Statement](docs/vision-statement.md)
-2. Check out our [Ethos](community/ethos.md)
-3. Find ways to contribute in our [Get Involved](docs/get-involved.md) guide
+1. Read the [Vision Statement](docs/vision-statement.md)
+2. Check out the [Ethos](community/ethos.md)
+3. Find ways to contribute in the [Get Involved](docs/get-involved.md) guide
 
 ## Contributing
 
 This is an open repository. Feel free to:
 - Suggest improvements through issues
 - Submit pull requests with new content
-- Share your work and reference "Kaspa Builders"
 
 ## Monthly Focus
 
-Each month, we focus on a theme—like mining outreach or onboarding guides—and invite the community to contribute content or tools around that theme. Check our [Monthly Focus](docs/monthly-focus.md) for current and past themes. 
+Each month, a theme is proposed—like mining outreach or onboarding guides—and the community is invited to contribute content or tools around that theme. Check the [Monthly Focus](docs/monthly-focus.md) for current and past themes. 

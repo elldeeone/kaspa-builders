@@ -20,7 +20,7 @@ There’s no single way to contribute. Below are just a few of the many ways peo
 - Build tools, dashboards, or onboarding guides  
 - Answer questions in Discord, Telegram, X, Reddit, or any social media platform  
 - Start a regional working group or initiative  
-- Record a video, write an article, or host a podcast  
+- Record a video, write an article, or host a space or podcast  
 
 If it brings value to the community—it counts.
 
@@ -28,7 +28,7 @@ If it brings value to the community—it counts.
 
 ## Where to Begin
 
-- Join the [Kaspa Discord](https://discord.gg/kaspa) or [Telegram](https://t.me/Kaspa_global)  
+- Join the [Kaspa Discord](https://discord.gg/kaspa) or [Telegram](https://t.me/kaspaenglish)  
 - Pick something from the “How to Contribute” list above  
 - Remix or localise a resource that already exists  
 - Introduce yourself and ask where help is needed  
@@ -61,24 +61,8 @@ There’s no pressure to scale. But there’s always room to deepen your impact.
 
 ---
 
-## Tools and Resources
-
-Here are some materials you can use, remix, translate, or build from:
-
-- [Kaspa Media Kit](https://kaspa.org/media-kit/)  
-- [Kaspa Block Explorers](https://explorer.kaspa.org/), [https://kas.fyi](https://kas.fyi)  
-- [Kaspa Wikipedia](https://wiki.kaspa.org/)  
-- [Kaspa Stats](https://kas.live/)  
-- [KasMedia Articles](https://kasmedia.com/)  
-- [Kaspalytics Dashboard](https://www.kaspalytics.com/)  
-
-More are being added all the time—feel free to suggest your own.
-
----
-
 ## Final Thought
 
 Helping Kaspa grow doesn’t require a title. It starts with care, curiosity, and a willingness to build.
 
-You’re not waiting for someone to hand you a role—you’re already in it.  
-Let’s keep moving forward.
+You’re not waiting for someone to hand you a role—you’re already in it.
