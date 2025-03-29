@@ -17,7 +17,7 @@ You don't need to be a developer. If you care enough to help, you already belong
 - 📁 `docs/` - Core documentation and guides
 - 📁 `resources/` - Educational materials, templates, and tools
   - 📁 `battlecards/` - Kaspa battle card translations and template ([Translation Status](resources/battlecards/translation-status.md))
-- 📁 `community/` - Community guidelines and processes
+- 📁 `community/` - Community ethos and processes
 - 📁 `events/` - Event planning and resources
 - 📁 `translations/` - General content translations (documentation, guides, etc.)
 - 📁 `archive/` - Historical content and deprecated materials
@@ -25,7 +25,7 @@ You don't need to be a developer. If you care enough to help, you already belong
 ## Getting Started
 
 1. Read our [Vision Statement](docs/vision-statement.md)
-2. Check out our [Community Guidelines](community/guidelines.md)
+2. Check out our [Ethos](community/ethos.md)
 3. Find ways to contribute in our [Get Involved](docs/get-involved.md) guide
 
 ## Contributing
