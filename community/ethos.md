@@ -10,7 +10,8 @@ If you're looking for a shared culture to build within—these are just some ide
 
 ## Shared Ideas That Have Worked
 
-These aren’t rules—they’re just ideas that have worked so far.  
+These aren’t rules—they’re just ideas that have worked so far. 
+
 The aim is to create a space where:
 - Collaboration is constructive  
 - Contributions are respected  
@@ -37,7 +38,8 @@ Here are some values that have helped shape the community:
 - **Modesty**  
   There’s no need to be “in charge.” Let actions and contributions speak for themselves.
 
-Take what resonates and leave what doesn’t.  
+Take what resonates and leave what doesn’t.
+
 As with Kaspa: the code is open, and so is the culture.
 
 ---
@@ -56,7 +58,8 @@ Some general patterns that have worked well:
 
 ## On the Name “Kaspa Builders”
 
-Kaspa Builders isn’t a company, a program, or a team.  
+Kaspa Builders isn’t a company, a program, or a team.
+  
 It’s just a name for people who are actively building, supporting, or educating around Kaspa. 
 
 People can call themselves whatever they like—Builder, Ambassador, Wizard—whatever resonates. The name is just a way to loosely describe those who actively contribute to the Kaspa ecosystem.
